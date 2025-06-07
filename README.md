@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit Nandawat</h1>
-<h3 align="center">Enthusiastic and curious engineering student eager to apply what I’ve learned in the
+<h3 align="center">A enthusiastic and curious engineering student eager to apply what I’ve learned in the
 classroom to real-world projects. I’m looking for opportunities where I can build hands-on
 experience, contribute to a team, and keep learning and growing along the way.
 </h3><br>
